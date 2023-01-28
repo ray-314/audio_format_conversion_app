@@ -1,3 +1,2 @@
-streamlit
-sox
 pandas
+sox
